@@ -61,5 +61,5 @@ jobs:
         with:
           app-name: 'auth-backend'
           slot-name: 'Production'
-          package: .
+          package: ./Backend
           
